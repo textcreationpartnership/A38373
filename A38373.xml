@@ -1,0 +1,462 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England vniting to her Soveraign; or, The advancing of the King A Solemne League and Covenant: for reformation and defence of religion, the honour and happiness of the King, and the peace and safety of the three kingdomes of England, Scotland and Ireland. Ordered, by the Parliament, that this Solemne League and Covenant be printed and published, and forthwith read in every church, and also once every year, according to former order of Parliaments.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38373</idno>
+            <idno type="STC">Wing E2936A</idno>
+            <idno type="STC">ESTC R219541</idno>
+            <idno type="EEBO-CITATION">99831005</idno>
+            <idno type="PROQUEST">99831005</idno>
+            <idno type="VID">35467</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38373)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35467)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2048:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England vniting to her Soveraign; or, The advancing of the King A Solemne League and Covenant: for reformation and defence of religion, the honour and happiness of the King, and the peace and safety of the three kingdomes of England, Scotland and Ireland. Ordered, by the Parliament, that this Solemne League and Covenant be printed and published, and forthwith read in every church, and also once every year, according to former order of Parliaments.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Charls Thomlinson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35467:1" rendition="simple:additions"/>
+            <p>ENGLAND <hi>
+                  <g ref="char:V">Ʋ</g>niting to Her Soveraign;</hi> OR, The Advancing of the KING:</p>
+            <p>A Solemne LEAGUE and COVENANT: FOR Reformation and Defence of Religion, The Honour and Happineſs of the KING, and the Peace and Safety of the three Kingdomes of ENGLAND, SCOTLAND and IRELAND.</p>
+            <p>ORdered, By the Parliament, That this Solemne League and Covenant be Printed and Pub<g ref="char:EOLhyphen"/>liſhed, and forthwith read in every Church, and alſo once every Year, according to former order of Parliaments.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Charls Thomlinſon,</hi> 1660.</p>
+            <pb facs="tcp:35467:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="covenant">
+            <pb n="3" facs="tcp:35467:2"/>
+            <head>A Solemne League and Covenant.</head>
+            <p>
+               <hi>WEE Noblemen, Barons, Knights, Gentlemen, Citizens, Bur<g ref="char:EOLhyphen"/>geſſes, Mini<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ters of the Goſpell, and Commons of all ſorts in the Kingdomes of</hi> England, Scotland, <hi>and</hi> Ireland, <hi>by the providence of God living under one King, and being of one reformed Religion, having before our eyes the glory of God, and the advancement of the Kingdome of our Lord and Saviour Jeſus Chriſt, the Honour and Happineſſe of the Kings Majeſty, and his poſterity, and the true pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lick liberty, ſafety and peace of the Kingdoms, wherein every ones private condition is included, and calling to mind the treacherous and bloody plots, conſpiracies attempts, and practices of the enemies of God, againſt the true Religion and Profeſſors thereof in all places, eſpecially in theſe three Kingdomes ever ſince the Reformation of Religion, and how much their rage, power, and preſumption are of late, and at this teme in<g ref="char:EOLhyphen"/>creaſed and exerciſed; whereof the deplorable eſtate of the Church and King<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome of</hi> Ireland, <hi>the deſtreſſed eſtate of the Church and Kingdome of</hi> England, <hi>and the dangerous eſtate of the Church and Kingdome of</hi> Scotland, <hi>are preſent and publicke Teſtimonies: We have now at laſt (after other means of ſupplication, remonſtrance, proteſtations, and ſufferings,) for the preſervation of our ſelves and our Religion from utter ruine and deſtruction according to the commendahle practice of theſe Kingdoms in former times and the example of Gods people in o<g ref="char:EOLhyphen"/>ther Nations, after mature deliberation, reſolved and determined to enter into a mutuall and ſolemne League and Covenant, wherein we all ſubſcribe, and each one o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> us for himſelfe, with our hands lifted up to the moſt High <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od, do ſwear:</hi>
+            </p>
+            <p n="1">I. THa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we ſhall ſine rely, really and conſtantly, through the grace of God, endeavour in our ſeveral places and callings the preſer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation of the Reformed Religion in the Church of <hi>Scotland,</hi> in doctrine, worſhip, diſcipline and Government, a<g ref="char:EOLhyphen"/>gainſt our common enemies, the Reformation of Religion in the King<g ref="char:EOLhyphen"/>domes of <hi>England</hi> and <hi>Ireland,</hi> in doctrine, worſhip, diſcipline and
+<pb n="4" facs="tcp:35467:3"/> government, according to the word of God, and the exam<g ref="char:EOLhyphen"/>ple of the beſt reformed Churches; and ſhall endeavour to bring the Churches of God in the three Kingdoms, to the neareſt conjun<g ref="char:EOLhyphen"/>ction and uniformity in Religion, Confeſſion of Faith, Form of Church-government, directory for Worſhip and Catechizing; that we and our poſterity after us may as brethren live in faith and love, and the Lord may delight to dwell in the midſt of us.</p>
+            <p n="2">II. That we ſhall in like manner, without reſpect of perſons, en<g ref="char:EOLhyphen"/>deavour the extirpation of Popery, Prelacy, (that is Church-go<g ref="char:EOLhyphen"/>vernment by Arch-Biſhops Biſhops, their Chancellours and Com<g ref="char:EOLhyphen"/>miſſaries, Deanes, Deanes and Chapters, Archdeacons, and all other Eccleſiaſtical Officers depending on that Hierarchy) Superſtition, Hereſie, Schiſme, Profaneneſs, and whatſoever ſhall be found to be contrary to ſound Doctrine, and the power of Godlineſs; leſt we partake in other mens ſins, and thereby be in danger to receive of their plagues, and that the Lord may be one, and his Name one in the three Kingdoms.</p>
+            <p n="3">III. We ſhall with the ſame ſincerity, reality and conſtancy, in our ſeveral Vocations, endeavour with our eſtates and lives, mutu<g ref="char:EOLhyphen"/>ally to preſerve the Rites and Priviledges of the Parliaments, &amp; the Liberties of the Kingdoms, and to defend the Kings Majeſties perſon and authority, in the preſervation and defence of the true Religion, and Liberties of the Kingdoms, that the world may bear witneſſe, with our conſciences of our Loyalty, and that we have no thoughts or intentions to diminiſh His Majeſties juſt power and Greatneſſe.</p>
+            <p n="4">II<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>I. We ſhall alſo with all faithfulneſſe endeavour the diſcovery of all ſuch as have been, or ſhall be Incendiaries, Malignants, or evil Inſtruments, by hindering the Reformation of Religion, dividing the King from his people, or one of the Kingdoms from another, or making any faction or parties among the people, contrary to this League and Covenant, that they may be brought to publick tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al, and receive condigne puniſhment, as the degree of their offences ſhall require or deſerve, or the ſupreme Judicatories of both King<g ref="char:EOLhyphen"/>doms reſpectively, or others having power from them for that effect, ſhall judge convenient.</p>
+            <p n="5">V. And whereas the happineſſe of a bleſſed Peace be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ween theſe Kingdoms, denied in former times to our Progenitors, is by the good providence of God granted unto us, and hath been lately concluded, and ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led by both the Parliaments, we ſhall each one of us, accord<g ref="char:EOLhyphen"/>ing to our place and intereſt, endeavour that they may remain con<g ref="char:EOLhyphen"/>joyned
+<pb n="5" facs="tcp:35467:3"/> in a firm peace and union to all poſterity, and that Juſtice may be done upon the wilful oppoſers thereof, in manner expreſſed in the precedent Articles.</p>
+            <p n="6">VI. We ſhall alſo according to our places and callings in this common cauſe of Religion, Liberty and peace of the Kingdoms, aſ<g ref="char:EOLhyphen"/>ſiſt &amp; defend all thoſe that enter into this League &amp; Covenant in the maintaining and purſuing thereof, &amp; ſhall not ſuffer our ſelves di<g ref="char:EOLhyphen"/>rectly or indirectly by whatſoever Combination, perſwaſion or ter<g ref="char:EOLhyphen"/>rour, to be divided &amp; withdrawn from this bleſſed Union and con<g ref="char:EOLhyphen"/>junction, whether to make defection to the contrar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> part, or to give our ſelves to a deteſtable indifferency or neutrality in this cauſe, which ſo much concerneth the glory of God, the good of the King<g ref="char:EOLhyphen"/>doms, and the honour of the King; but ſhall all the daies of our lives, zealouſly continue therein againſt all oppoſition, &amp; promote the ſame according to our power, againſt all lets and impediments whatſoever; and what we are not able our ſelves to ſuppreſſe or o<g ref="char:EOLhyphen"/>vercome, we ſhall reveal and make known, that it may be timely pre<g ref="char:EOLhyphen"/>vented or removed; All which we ſhall do as in the ſight of God.</p>
+            <p>
+               <hi>And becauſe theſe Kingdomes are guilty of many ſins and provocati<g ref="char:EOLhyphen"/>ons againſt God, and his Son Jeſus Chriſt, as is too manifeſt by on pre<g ref="char:EOLhyphen"/>ſent diſtreſſes and dangers, the fruits thereof, We profeſs and declare before God and the world our unfeigned deſire to be humbled for our own ſins, and for the ſins of theſe Kingdomes, eſpecially that we have not as we ought, valued the ineſtimable benefit of the Goſpel, that we have not laboured for the purity and power thereof, and that we have not endeavoured to receive Chriſt in our hearts, nor to walke worthy of him in our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ives, which are the cauſes of our ſins and tranſgreſſions ſo much abounding amongſt us; and our true and unfeigned purpoſe, de<g ref="char:EOLhyphen"/>ſire, and endeavour for our ſelves, and all others under our power and charge, both in publicke and in private, in all duties we owe to God and Man, to amend our lives, and each one to go before another in the ex<g ref="char:EOLhyphen"/>ample of a reall Reformation, that the Lord may turn away his wrath and heavy indignation, and eſtabliſh theſe Churches and Kingdomes in truth and peace. And this Covenant we make in the preſence of Al<g ref="char:EOLhyphen"/>mighty God the Searcher of al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hearts, with a true intention to perform the ſame, as we ſhall anſwer at the great day, when the ſecrets of all hearts ſhall be diſcloſed: Mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t humbly beſeeching the Lord to ſtrengthen us by his Holy Spirit for this end, and to bleſſe our deſires and procee<g ref="char:EOLhyphen"/>dings with ſuch ſuc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs, as may be deliverance and ſfety to his people,</hi>
+               <pb n="6" facs="tcp:35467:4"/> 
+               <hi>and encouragement to other Chreſtian Churches groaning under, or in danger of the yoke of Antichriſtian ty<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anny, to joyne in the ſame or like Aſſociation and Covenant, to the glory of God, the enlargement of the Kingdom of Jeſus Chriſt, and the peace and tranquillity of Chriſtian Kingodmes and Common-wealthes.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Wil. Lenthal, <hi>Speaker</hi>
+                     </item>
+                     <item>Beuchamp St. John</item>
+                     <item>Gilbert Gerrard</item>
+                     <item>Walter Earle</item>
+                     <item>James Cambell</item>
+                     <item>Thomas Cheeke</item>
+                     <item>Robert Nicholas</item>
+                     <item>Benjamin Rudyard</item>
+                     <item>John Gurdon</item>
+                     <item>Robert Harley</item>
+                     <item>Francis Knollys</item>
+                     <item>Edward Maſser</item>
+                     <item>John White</item>
+                     <item>Anthony Stapley</item>
+                     <item>Dennis Bond</item>
+                     <item>Laurence Whitaker</item>
+                     <item>Michael Noble</item>
+                     <item>Pere. Hoby</item>
+                     <item>Richard Barwis</item>
+                     <item>Edward Baynton</item>
+                     <item>William Cawley</item>
+                     <item>John Moyle</item>
+                     <item>John Pyne</item>
+                     <item>George Searle</item>
+                     <item>Henr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Vane <hi>Senior</hi>
+                     </item>
+                     <item>Nevill Poole</item>
+                     <item>John Yonge</item>
+                     <item>Henry Herbert</item>
+                     <item>Thomas Sandys</item>
+                     <item>William Jeſſon</item>
+                     <item>Philip L. Herbert</item>
+                     <item>Thomas Barrington</item>
+                     <item>Martin Lumley</item>
+                     <item>John Trevor</item>
+                     <item>Francis Godolphin</item>
+                     <item>Thomas Arundell</item>
+                     <item>Edward Stephens</item>
+                     <item>Gilbert Pickering</item>
+                     <item>John Greve</item>
+                     <item>Oliver Cromwell</item>
+                     <item>Henry Vane <hi>Junior</hi>
+                     </item>
+                     <item>William Cage</item>
+                     <item>Richard Eriſey</item>
+                     <item>Philip L. Liſle</item>
+                     <item>Wil. Heveningham</item>
+                     <item>Iſaac Pennington</item>
+                     <item>Richard Creſheld</item>
+                     <item>Thomas Pelham</item>
+                     <item>Thomas Parker</item>
+                     <item>John Leigh</item>
+                     <item>John Harris</item>
+                     <item>Auguſtine Skinner</item>
+                     <item>John Venn</item>
+                     <item>Will. Strickland</item>
+                     <item>John Franklin</item>
+                     <item>Samuel Brown</item>
+                     <item>Robert S<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>wen</item>
+                     <item>Roger Hill</item>
+                     <item>John Button</item>
+                     <item>John Meyrick</item>
+                     <item>Ambroſe Browne</item>
+                     <item>Richard Winn</item>
+                     <item>Edward Owner</item>
+                     <item>Charles Pym</item>
+                     <item>Charles L. Cranborn</item>
+                     <item>Ben. W<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſton</item>
+                     <item>Dubley North</item>
+                     <item>John Nut</item>
+                     <item>Jo. Corbet</item>
+                     <item>Roger Burgoyne</item>
+                     <item>Peter Temple</item>
+                     <item>Benjamin Valentine</item>
+                     <item>Tho. Walſingham</item>
+                     <item>Oliver Luke</item>
+                     <item>William Alenſon</item>
+                     <item>Humphrey Salwey</item>
+                     <item>Richard Moore</item>
+                     <item>Will. Aſhurſt</item>
+                     <item>Thomas Moore</item>
+                     <item>Thomas Fountaine</item>
+                     <item>Will. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ys</item>
+                     <item>Henry Shelley</item>
+                     <item>Rich. Shuttleworth</item>
+                     <item>Henry Ludlow</item>
+                     <item>George Gallop.</item>
+                     <item>Robert Wallop.</item>
+                     <item>Arthur Heſilrige</item>
+                     <item>Oliver Saint-John</item>
+                     <item>Thomas Grantham</item>
+                     <item>Francis Barnham</item>
+                     <item>Will. L. Fitzwil<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iams</item>
+                     <item>Edmund D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nch</item>
+                     <item>Henry Mildmay.</item>
+                     <item>Hugh Rogers</item>
+                     <item>Thomas Hatcher</item>
+                     <item>John Wray</item>
+                     <item>Simon<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s D<g ref="char:punc">▪</g>Ewes</item>
+                     <item>Anthony Bedingfield</item>
+                     <item>John Aſhe</item>
+                     <item>Will. L. Munſon</item>
+                     <item>Martin Liſter</item>
+                     <item>Robert Goodwyn</item>
+                     <pb n="7" facs="tcp:35467:4"/>
+                     <item>Edward Thomas</item>
+                     <item>Henry Lucas</item>
+                     <item>Miles Corbet</item>
+                     <item>Philip Smith</item>
+                     <item>Cornelius Holland</item>
+                     <item>Will. Spurſtowe</item>
+                     <item>John Lowry</item>
+                     <item>peter Wentworth</item>
+                     <item>Henry Chomley</item>
+                     <item>philip Stapleton</item>
+                     <item>Will. pierrepoint</item>
+                     <item>Roger North</item>
+                     <item>Alexander popham</item>
+                     <item>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>homas Hodges</item>
+                     <item>John Maynard</item>
+                     <item>Samuel Vaſſall</item>
+                     <item>Anthony Irby</item>
+                     <item>John Clotworthy</item>
+                     <item>John Broxolme</item>
+                     <item>Richard Iervoyſe</item>
+                     <item>John Blaki<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ton</item>
+                     <item>Walter Long</item>
+                     <item>John Rolle</item>
+                     <item>Robert Jennor</item>
+                     <item>John VVaddon</item>
+                     <item>VVilliam Maſham</item>
+                     <item>John Liſle</item>
+                     <item>Edmund Fowell</item>
+                     <item>Edward Aſhe</item>
+                     <item>Thomas Pury</item>
+                     <item>Richard VVhithead</item>
+                     <item>Richard Jenyns</item>
+                     <item>Humphry Tuſton</item>
+                     <item>Thomas Dacres</item>
+                     <item>Thomas Erle</item>
+                     <item>John Downes</item>
+                     <item>John Goodwyn</item>
+                     <item>Francis Drake</item>
+                     <item>VVill. VValler</item>
+                     <item>Samuel Luke</item>
+                     <item>Francis Buller</item>
+                     <item>Richard Harman</item>
+                     <item>George Buller</item>
+                     <item>Arthur Onſlowe</item>
+                     <item>Richard VVynwood</item>
+                     <item>Robert pye</item>
+                     <item>H L. Gray of Ruthin</item>
+                     <item>Richard Knightley</item>
+                     <item>John pym</item>
+                     <item>Chriſt. Yelverton</item>
+                     <item>Anthony Nicoll</item>
+                     <item>peter VVroth</item>
+                     <item>Robert Reynolds</item>
+                     <item>Nat. Barnardiſton</item>
+                     <item>Henry Heyman</item>
+                     <item>VVilliam purefoy</item>
+                     <item>Valentine VValton</item>
+                     <item>Michael Oldeſworth</item>
+                     <item>VVilliam VVheler</item>
+                     <item>Hall Ravenſcroft</item>
+                     <item>T. L. Grey of Groby</item>
+                     <item>Thomas Middleton</item>
+                     <item>Edw. Hungerford</item>
+                     <item>Chriſtopher VVrey</item>
+                     <item>Richard Lee</item>
+                     <item>Herbert Morley</item>
+                     <item>Thomas Lane</item>
+                     <item>Robert Cecill</item>
+                     <item>VVilliam Bell</item>
+                     <item>Thomas Some</item>
+                     <item>Herbot. Grimſtone</item>
+                     <item>Symon Snowe</item>
+                     <item>John Naſh</item>
+                     <item>Herbot Grimſtone</item>
+                     <item>Rulph Aſheton</item>
+                     <item>Edward Ayſhcoghe</item>
+                     <item>Iohn Wylde</item>
+                     <item>Iohn Trenchard</item>
+                     <item>Thomas Iervoyſe</item>
+                     <item>Richard Browne</item>
+                     <item>William Playters</item>
+                     <item>Nathaniel Stephens</item>
+                     <item>Richard Roſe</item>
+                     <item>Francis Rous</item>
+                     <item>Gilbert Millington</item>
+                     <item>Walter Young</item>
+                     <item>Iohn Brown</item>
+                     <item>Iohn Hippiſly</item>
+                     <item>Edward poole</item>
+                     <item>Henry pelham</item>
+                     <item>William Hay.</item>
+                     <item>Iohn Driden</item>
+                     <item>Nathaniel Fyennes</item>
+                     <item>William Lewis</item>
+                     <item>Giles Greene</item>
+                     <item>William Lytton</item>
+                     <item>Iohn Harvey</item>
+                     <item>Edward Dowce</item>
+                     <item>William Strode</item>
+                     <item>Edmond prideaux</item>
+                     <item>Thomas Hoyle</item>
+                     <item>Edward Enton</item>
+                     <item>Francis popham</item>
+                     <item>Zouch Tate</item>
+                     <item>Iohn Curſon</item>
+                     <item>Alexander Bence</item>
+                     <item>Squire Bence</item>
+                     <item>Iohn Selden</item>
+                     <item>Iohn Glyn</item>
+                     <item>Richard Onſlow</item>
+                     <item>Iohn Coke</item>
+                     <item>Tho. L. Wenman</item>
+                     <item>Bul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rode Whitelock</item>
+                     <item>George Mountague</item>
+                     <item>Edward partheriche</item>
+                     <item>Henry Campion</item>
+                     <item>VVilliam VVhitaker</item>
+                     <item>Danzel Holles</item>
+                     <item>Edward VVingate</item>
+                     <item>Iames Fen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s</item>
+                     <item>poynings Moore</item>
+                     <pb n="8" facs="tcp:35467:5"/>
+                     <item>Edward Biſſe, <hi>Iunior</hi>
+                     </item>
+                     <item>VVilliam Jerpſon</item>
+                     <item>Edward Mountague</item>
+                     <item>Norton Knatchboll</item>
+                     <item>Thomas Eden.</item>
+                     <item>Edward Baynton</item>
+                     <item>Jo. Evelyn</item>
+                     <item>Jo. potts</item>
+                     <item>San<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Rolls</item>
+                     <item>Ralph Aſheton</item>
+                     <item>VVilliam Drake</item>
+                     <item>pereg. pelham</item>
+                     <item>William Brereton</item>
+                     <item>Thomas VVidrington</item>
+                     <item>Natha. Hallowes</item>
+                     <item>Joh. Bamfield</item>
+                     <item>Symond Thelwall</item>
+                     <item>Hen. Worſley</item>
+                     <item>phil. par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er</item>
+                     <item>Edw. Boys</item>
+                     <item>John Alford</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
